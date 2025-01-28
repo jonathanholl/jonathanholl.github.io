@@ -120,7 +120,8 @@ The RFP successfully demonstrated my ability to align technical solutions with o
 
 ### 5. **Additional Details**
 
-You can view the complete RFP document here: [RFP Document](sandbox:/mnt/data/5.1%20RFP%20Final%201-2%20(1)revised.pdf) 
+You can view the complete RFP document here: [RFP.docx](https://github.com/user-attachments/files/18577875/RFP.docx)
+
 
 ---
 
