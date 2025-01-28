@@ -1,5 +1,8 @@
 # 🔒 Cybersecurity Portfolio & Labs
       Jonathan Holland
+![Profile Picture] "C:\Users\jmhol\OneDrive - ECPI University\CLOUD\OneDrive - ECPI University\Pictures\Profile.png" 
+
+# 🔒 Cybersecurity Portfolio & Labs
 
 Welcome to the **Cybersecurity Portfolio** page! This repository highlights my skills, projects, and resources in cybersecurity, showcasing hands-on experience and practical knowledge in the field.
 
