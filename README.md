@@ -1,8 +1,7 @@
-# 🔒 Cybersecurity Portfolio & Labs
+# 🔒 Cybersecurity Portfolio & Resources
+Fortifying Digital Infrastructure and Safeguarding the Future of Cybersecurity
       Jonathan Holland
 
-
-# 🔒 Cybersecurity Portfolio & Labs
 
 Welcome to the **Cybersecurity Portfolio** page! This repository highlights my skills, projects, and resources in cybersecurity, showcasing hands-on experience and practical knowledge in the field.
 
