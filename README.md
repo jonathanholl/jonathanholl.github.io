@@ -159,7 +159,7 @@ Feel free to reach out if you have any questions or would like to collaborate:
 - **RFP  Request for Proposal** https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:57e612ba-6ac8-4167-8895-9266104a5002
 
 
-- **GitHub**: [Your GitHub](https://github.com/yourusername)
+- **GitHub**: (https://github.com/jonathanholl/jonathanholl.github.io)
 
 ---
 
