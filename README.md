@@ -1,9 +1,6 @@
 # 🔒 Cybersecurity Portfolio & Resources
+
 Fortifying Digital Infrastructure and Safeguarding the Future of Cybersecurity
-
-
-Jonathan Holland
-![Alt text for the image](Profile.png/images/my-image.jpg)
 
 
 Welcome to the **Cybersecurity Portfolio** page! This repository highlights my skills, projects, and resources in cybersecurity, showcasing hands-on experience and practical knowledge in the field.
@@ -14,10 +11,12 @@ Welcome to the **Cybersecurity Portfolio** page! This repository highlights my s
 1. [Introduction](#introduction)
 2. [Skills](#skills)
 3. [Certifications](#certifications)
-4. [Tools & Technologies](#tools--technologies)
-5. [Labs](#labs)
-6. [Resources](#resources)
-7. [Contact](#contact)
+4. [Packet Tracer Project](#packet-tracer-project)
+5. [Request for Proposal (RFP)](#request-for-proposal-rfp)
+6. [Tools & Technologies](#tools--technologies)
+7. [Labs](#labs)
+8. [Resources](#resources)
+9. [Contact](#contact)
 
 ---
 
@@ -43,6 +42,61 @@ Here are my current certifications:
 
 - **CompTIA Network+**: [View Badge](https://www.credly.com/badges/82c6871c-bf82-4229-ba4a-47a72dd0290a)
 - **CompTIA Security+**: [View Badge](https://www.credly.com/badges/16ee451c-1512-4f03-ac53-2377544ac156/linked_in_profile)
+
+---
+
+## 🌐 Packet Tracer Project
+This project demonstrates my ability to design, configure, and analyze network environments using Cisco Packet Tracer. Below is a breakdown of the steps involved:
+
+### 1. **Project Objective**
+The goal was to create a secure and efficient network infrastructure for a hypothetical organization. This involved designing and simulating VLANs, routing, and security policies.
+
+### 2. **Steps Taken**
+- **Network Design**:
+  - Created a logical topology incorporating routers, switches, and end devices.
+  - Configured VLANs to segment traffic for different departments.
+- **Configuration**:
+  - Assigned IP addresses and subnet masks.
+  - Set up static and dynamic routing protocols (e.g., OSPF).
+  - Configured ACLs to enforce security policies.
+- **Testing**:
+  - Verified connectivity using `ping` and `traceroute` commands.
+  - Simulated traffic to test ACL rules and troubleshoot issues.
+
+### 3. **Challenges and Solutions**
+- **Challenge**: Overlapping subnets.
+  - **Solution**: Adjusted subnet mask to avoid conflicts.
+- **Challenge**: Incorrect ACL rules.
+  - **Solution**: Debugged rules using simulation tools in Packet Tracer.
+
+### 4. **Output**
+You can view the project file here: [Packet Tracer File](https://studentsecpi-my.sharepoint.com/:u:/g/personal/danlej1337_students_ecpi_edu/EZDgFzeJ7fVMqzjGNfPWFq4BD1_coPyJPrh7OEXkKxNsbA?e=xZng5U)
+
+---
+
+## 📝 Request for Proposal (RFP)
+The RFP was crafted to outline the requirements for deploying a secure network infrastructure. Here’s a breakdown of the key components:
+
+### 1. **Project Scope**
+The RFP requested a design for a scalable and secure network solution for a medium-sized enterprise, focusing on:
+- High availability.
+- Secure communication.
+- Minimal downtime during deployment.
+
+### 2. **Requirements**
+- **Hardware**: Specify routers, switches, and firewalls.
+- **Software**: Recommended use of Cisco IOS and monitoring tools.
+- **Security**:
+  - Implement VLANs.
+  - Use ACLs for segmentation and access control.
+  - Enable encryption for sensitive data.
+
+### 3. **Proposal Submission**
+- Submission included a detailed network design with diagrams.
+- A timeline and cost estimate for implementation.
+
+### 4. **Outcome**
+The RFP successfully demonstrated my ability to align technical solutions with organizational needs and budget constraints.
 
 ---
 
@@ -102,6 +156,7 @@ Feel free to reach out if you have any questions or would like to collaborate:
 - **Email**: johnholland1987@gmail.com
 - **LinkedIn**: [Jonathan Holland](https://www.linkedin.com/in/jonathan-holland-71b155270/)
 - **Packet Tracer File**: [Download Here](https://studentsecpi-my.sharepoint.com/:u:/g/personal/danlej1337_students_ecpi_edu/EZDgFzeJ7fVMqzjGNfPWFq4BD1_coPyJPrh7OEXkKxNsbA?e=xZng5U)
+- **RFP  Request for Proposal** 
 - **GitHub**: [Your GitHub](https://github.com/yourusername)
 
 ---
