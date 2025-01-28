@@ -3,10 +3,9 @@
 Welcome to the **Cybersecurity Portfolio** page! This repository highlights my skills, projects, and resources in cybersecurity, showcasing hands-on experience and practical knowledge in the field.
 
 **JONATHAN HOLLAND**
+![Profile](https://github.com/user-attachments/assets/de31887d-d6ca-4847-8bc5-52a42fc1d277)
 
 
-
-![image alt](https://github.com/jonathanholl/jonathanholl.github.io/blob/bbf51e1574b2ba743d63ed0066d47ede60c9f9b1/Profile1.png)
 ---
 
 ## 📖 Table of Contents
