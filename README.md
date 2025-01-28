@@ -1,7 +1,4 @@
-# 🔒 Cybersecurity Portfolio & Resources
-
-Fortifying Digital Infrastructure and Safeguarding the Future of Cybersecurity
-
+# 🔒 Cybersecurity Portfolio & Labs
 
 Welcome to the **Cybersecurity Portfolio** page! This repository highlights my skills, projects, and resources in cybersecurity, showcasing hands-on experience and practical knowledge in the field.
 
@@ -59,6 +56,7 @@ The goal was to create a secure and efficient network infrastructure for a hypot
   - Assigned IP addresses and subnet masks.
   - Set up static and dynamic routing protocols (e.g., OSPF).
   - Configured ACLs to enforce security policies.
+  - Added a honeypot to distract potential hackers and prevent unauthorized access to the internal network.
 - **Testing**:
   - Verified connectivity using `ping` and `traceroute` commands.
   - Simulated traffic to test ACL rules and troubleshoot issues.
@@ -70,7 +68,7 @@ The goal was to create a secure and efficient network infrastructure for a hypot
   - **Solution**: Debugged rules using simulation tools in Packet Tracer.
 
 ### 4. **Output**
-You can view the project file here: https://studentsecpi-my.sharepoint.com/:u:/r/personal/jonhol1944_students_ecpi_edu/Documents/Microsoft%20Teams%20Chat%20Files/CAPSTONE%20V1.24.pkt?csf=1&web=1&e=EDRbHQ 
+You can view the project file here: [Packet Tracer File](https://studentsecpi-my.sharepoint.com/:u:/g/personal/danlej1337_students_ecpi_edu/EZDgFzeJ7fVMqzjGNfPWFq4BD1_coPyJPrh7OEXkKxNsbA?e=xZng5U)
 
 ---
 
@@ -97,7 +95,9 @@ The RFP requested a design for a scalable and secure network solution for a medi
 
 ### 4. **Outcome**
 The RFP successfully demonstrated my ability to align technical solutions with organizational needs and budget constraints.
-**RFP**
+
+### 5. **Additional Details**
+You can view the complete RFP document here: [RFP Document](sandbox:/mnt/data/5.1%20RFP%20Final%201-2%20(1)revised.pdf)
 
 ---
 
@@ -157,10 +157,7 @@ Feel free to reach out if you have any questions or would like to collaborate:
 - **Email**: johnholland1987@gmail.com
 - **LinkedIn**: [Jonathan Holland](https://www.linkedin.com/in/jonathan-holland-71b155270/)
 - **Packet Tracer File**: [Download Here](https://studentsecpi-my.sharepoint.com/:u:/g/personal/danlej1337_students_ecpi_edu/EZDgFzeJ7fVMqzjGNfPWFq4BD1_coPyJPrh7OEXkKxNsbA?e=xZng5U)
-- **RFP  Request for Proposal** https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:57e612ba-6ac8-4167-8895-9266104a5002
-
-
-- **GitHub**: (https://github.com/jonathanholl/jonathanholl.github.io)
+- **GitHub**: [Your GitHub](https://github.com/yourusername)
 
 ---
 
