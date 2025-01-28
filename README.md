@@ -3,6 +3,7 @@ Fortifying Digital Infrastructure and Safeguarding the Future of Cybersecurity
 
 
 Jonathan Holland
+![Alt text for the image](Profile.png/images/my-image.jpg)
 
 
 Welcome to the **Cybersecurity Portfolio** page! This repository highlights my skills, projects, and resources in cybersecurity, showcasing hands-on experience and practical knowledge in the field.
