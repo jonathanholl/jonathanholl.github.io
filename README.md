@@ -1,6 +1,6 @@
 # 🔒 Cybersecurity Portfolio & Labs
       Jonathan Holland
-![Profile Picture] "C:\Users\jmhol\OneDrive - ECPI University\CLOUD\OneDrive - ECPI University\Pictures\Profile.png" 
+
 
 # 🔒 Cybersecurity Portfolio & Labs
 
