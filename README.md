@@ -77,7 +77,7 @@ The goal was to create a secure and efficient network infrastructure for a hypot
 
 ### 4. **Output**
 
-You can view the project file here: [Packet Tracer File](https://studentsecpi-my.sharepoint.com/\:u:/g/personal/danlej1337_students_ecpi_edu/EZDgFzeJ7fVMqzjGNfPWFq4BD1_coPyJPrh7OEXkKxNsbA?e=xZng5U)
+You can view the project file here: [Packet Tracer File]https://studentsecpi-my.sharepoint.com/:u:/r/personal/jonhol1944_students_ecpi_edu/Documents/Microsoft%20Teams%20Chat%20Files/CAPSTONE%20V1.24.pkt?csf=1&web=1&e=zHX8xi
 
 ---
 
