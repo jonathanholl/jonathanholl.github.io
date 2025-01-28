@@ -1,4 +1,5 @@
 # 🔒 Cybersecurity Portfolio & Labs
+##Jonathan Holland
 
 Welcome to the **Cybersecurity Portfolio** page! This repository highlights my skills, projects, and resources in cybersecurity, showcasing hands-on experience and practical knowledge in the field.
 
@@ -7,10 +8,11 @@ Welcome to the **Cybersecurity Portfolio** page! This repository highlights my s
 ## 📖 Table of Contents
 1. [Introduction](#introduction)
 2. [Skills](#skills)
-3. [Tools & Technologies](#tools--technologies)
-4. [Labs](#labs)
-5. [Resources](#resources)
-6. [Contact](#contact)
+3. [Certifications](#certifications)
+4. [Tools & Technologies](#tools--technologies)
+5. [Labs](#labs)
+6. [Resources](#resources)
+7. [Contact](#contact)
 
 ---
 
@@ -28,6 +30,14 @@ Here are some of the key skills I bring to the field of cybersecurity:
 - **Incident Response**: Experience in responding to and mitigating security incidents through monitoring and analysis.
 - **Digital Forensics**: Knowledge of forensic techniques and tools to investigate cyber incidents.
 - **Cybersecurity Certifications**: Holder of **Security+** and **Network+** certifications.
+
+---
+
+## 🏅 Certifications
+Here are my current certifications:
+
+- **CompTIA Network+**: [View Badge](https://www.credly.com/badges/82c6871c-bf82-4229-ba4a-47a72dd0290a)
+- **CompTIA Security+**: [View Badge](https://www.credly.com/badges/16ee451c-1512-4f03-ac53-2377544ac156/linked_in_profile)
 
 ---
 
