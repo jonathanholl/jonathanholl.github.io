@@ -77,7 +77,7 @@ The goal was to create a secure and efficient network infrastructure for a hypot
 
 ### 4. **Output**
 
-You can view the project file here: [Packet Tracer File]https://studentsecpi-my.sharepoint.com/:u:/r/personal/jonhol1944_students_ecpi_edu/Documents/Microsoft%20Teams%20Chat%20Files/CAPSTONE%20V1.24.pkt?csf=1&web=1&e=zHX8xi
+You can view the project file here: [Packet Tracer File](https://studentsecpi-my.sharepoint.com/:u:/r/personal/jonhol1944_students_ecpi_edu/Documents/Microsoft%20Teams%20Chat%20Files/CAPSTONE%20V1.24.pkt?csf=1&web=1&e=zHX8xi)
 
 ---
 
@@ -113,10 +113,7 @@ The RFP successfully demonstrated my ability to align technical solutions with o
 
 ### 5. **Additional Details**
 
-
-
-You can view the complete RFP document here: [RFP Document](https://github.com/jonathanholl/jonathanholl.github.io/blob/main/5.1%20RFP%20Final%201-2%20(1)revised.pdf)
-
+You can view the complete RFP document here: [RFP Document](sandbox:/mnt/data/5.1%20RFP%20Final%201-2%20(1)revised.pdf) 
 
 ---
 
@@ -184,8 +181,7 @@ Feel free to reach out if you have any questions or would like to collaborate:
 - **Email**: [johnholland1987@gmail.com](mailto\:johnholland1987@gmail.com)
 - **LinkedIn**: [Jonathan Holland](https://www.linkedin.com/in/jonathan-holland-71b155270/)
 - **Packet Tracer File**: [Download Here](https://studentsecpi-my.sharepoint.com/\:u:/g/personal/danlej1337_students_ecpi_edu/EZDgFzeJ7fVMqzjGNfPWFq4BD1_coPyJPrh7OEXkKxNsbA?e=xZng5U)
-- **GitHub**: https://github.com/jonathanholl
-- 
+- **GitHub**: [Your GitHub](https://github.com/yourusername)
 
 ---
 
@@ -198,5 +194,4 @@ This repository is licensed under the [MIT License](LICENSE).
 ### 🌐 Contribute
 
 Have ideas to improve this repository? [Open an issue](https://github.com/yourusername/repository/issues) or submit a pull request!
-
 
