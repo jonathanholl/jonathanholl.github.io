@@ -113,7 +113,10 @@ The RFP successfully demonstrated my ability to align technical solutions with o
 
 ### 5. **Additional Details**
 
-You can view the complete RFP document here: [RFP Document](sandbox:/mnt/data/5.1%20RFP%20Final%201-2%20(1)revised.pdf) 
+
+
+You can view the complete RFP document here: [RFP Document](https://github.com/jonathanholl/jonathanholl.github.io/blob/main/5.1%20RFP%20Final%201-2%20(1)revised.pdf)
+
 
 ---
 
@@ -181,7 +184,8 @@ Feel free to reach out if you have any questions or would like to collaborate:
 - **Email**: [johnholland1987@gmail.com](mailto\:johnholland1987@gmail.com)
 - **LinkedIn**: [Jonathan Holland](https://www.linkedin.com/in/jonathan-holland-71b155270/)
 - **Packet Tracer File**: [Download Here](https://studentsecpi-my.sharepoint.com/\:u:/g/personal/danlej1337_students_ecpi_edu/EZDgFzeJ7fVMqzjGNfPWFq4BD1_coPyJPrh7OEXkKxNsbA?e=xZng5U)
-- **GitHub**: [Your GitHub](https://github.com/yourusername)
+- **GitHub**: https://github.com/jonathanholl
+- 
 
 ---
 
