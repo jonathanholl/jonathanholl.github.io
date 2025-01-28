@@ -6,7 +6,7 @@ Welcome to the **Cybersecurity Portfolio** page! This repository highlights my s
 
 
 
-![image alt](https://github.com/jonathanholl/jonathanholl.github.io/blob/a99f431a280e8f97b554907e949e0c6a04c867fc/Profile.png)
+![image alt](https://github.com/jonathanholl/jonathanholl.github.io/blob/bbf51e1574b2ba743d63ed0066d47ede60c9f9b1/Profile1.png)
 ---
 
 ## 📖 Table of Contents
