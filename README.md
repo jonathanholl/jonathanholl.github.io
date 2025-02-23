@@ -15,11 +15,12 @@ Welcome to the **Cybersecurity Portfolio** page! This repository highlights my s
 3. [Certifications](#certifications)
 4. [Packet Tracer Project](#packet-tracer-project)
 5. [Request for Proposal (RFP)](#request-for-proposal-rfp)
-6. [Python Game Projects](#python-game-projects)
-7. [Tools & Technologies](#tools--technologies)
-8. [Labs](#labs)
-9. [Resources](#resources)
-10. [Contact](#contact)
+6. [Honeypot Project](#honeypot-project)
+7. [Python Game Projects](#python-game-projects)
+8. [Tools & Technologies](#tools--technologies)
+9. [Labs](#labs)
+10. [Resources](#resources)
+11. [Contact](#contact)
 
 ---
 
@@ -87,6 +88,37 @@ Design a scalable, secure network for a medium-sized enterprise with high availa
 
 ### 3. **Outcome**
 Demonstrated aligning technical solutions with organizational needs. [RFP.docx](https://github.com/user-attachments/files/18577875/RFP.docx)
+
+---
+## 🕵️ Honeypot Project
+
+This project showcases my ability to deploy and manage honeypots to capture and analyze malicious activity, enhancing network security through threat intelligence.
+
+### 1. **Project Objective**
+Deploy a honeypot system to attract attackers, log their interactions, and study their tactics, techniques, and procedures (TTPs).
+
+### 2. **Implementation**
+- **Tools Used**: Deployed **T-Pot**, a multi-honeypot platform combining Dionaea, Cowrie, and other sensors.
+- **Setup**:
+  - Installed T-Pot on a virtual machine (e.g., VirtualBox or AWS EC2).
+  - Configured network settings to expose the honeypot to the internet while isolating it from critical systems.
+  - Monitored logs via the T-Pot web interface.
+- **Execution**: Ran the honeypot for a set period (e.g., 48 hours) to collect attack data.
+
+### 3. **Findings**
+- Captured attempts including SSH brute force attacks and malware uploads.
+- Analyzed data to identify common attack vectors and IP origins.
+
+### 4. **Documentation and Output**
+- **Configuration File**: [tpot.conf](https://github.com/yourusername/repository-name/blob/main/honeypot/tpot.conf)
+- **Log Sample**: [honeypot_logs.txt](https://github.com/yourusername/repository-name/blob/main/honeypot/honeypot_logs.txt)
+- **Screenshot**: [tpot_dashboard.png](https://github.com/yourusername/repository-name/blob/main/honeypot/tpot_dashboard.png)
+- **Report**: [Honeypot_Analysis.pdf](https://github.com/yourusername/repository-name/blob/main/honeypot/Honeypot_Analysis.pdf)
+
+### 5. **Skills Demonstrated**
+- Honeypot configuration and management.
+- Threat intelligence gathering and analysis.
+- Virtualization and network isolation techniques.
 
 ---
 
