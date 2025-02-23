@@ -147,7 +147,8 @@ To showcase my programming skills, I've developed several Python games using Pyg
   - Waves of aliens moving side-to-side and dropping down.
   - Bullet mechanics with cooldown.
   - Score system and game over on collision.
-- **Code**: <a href="https://github.com/jonathanholl/jonathanholl.github.io/blob/main/space_invaders.py">space_invaders.py</a>
+- **Code**: [space_invaders.py](https://raw.githubusercontent.com/jonathanholl/jonathanholl.github.io/main/space_invaders.py)
+
 
 - **Skills Demonstrated**: Sprite handling, event-driven programming, basic AI movement.
 - ![image](https://github.com/user-attachments/assets/add4cc65-49c0-4f10-83b5-761788899607)
