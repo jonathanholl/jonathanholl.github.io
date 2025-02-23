@@ -111,9 +111,10 @@ Deploy a honeypot system to attract attackers, log their interactions, and study
 
 ### 4. **Documentation and Output**
 - **Configuration File**: https://github.com/jonathanholl/jonathanholl.github.io/blob/main/Tpot%20Configuration
-- **Log Sample**: [honeypot_logs.txt](https://github.com/yourusername/repository-name/blob/main/honeypot/honeypot_logs.txt)
-- **Screenshot**: [tpot_dashboard.png](https://github.com/yourusername/repository-name/blob/main/honeypot/tpot_dashboard.png)
-- **Report**: [Honeypot_Analysis.pdf](https://github.com/yourusername/repository-name/blob/main/honeypot/Honeypot_Analysis.pdf)
+- **Log Sample**: https://github.com/jonathanholl/jonathanholl.github.io/blob/main/log%20sample%20honeypot.txt
+- **Screenshot**: ![image](https://github.com/user-attachments/assets/5edcd800-6e3e-448c-8c08-d1f69f60e6fe)
+
+- **Report**: [Honeypot_Analysis.pdf](https://github.com/repository-name/blob/main/honeypot/Honeypot_Analysis.pdf)
 
 ### 5. **Skills Demonstrated**
 - Honeypot configuration and management.
