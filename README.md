@@ -110,7 +110,7 @@ Deploy a honeypot system to attract attackers, log their interactions, and study
 - Analyzed data to identify common attack vectors and IP origins.
 
 ### 4. **Documentation and Output**
-- **Configuration File**: [tpot.conf](https://github.com/yourusername/repository-name/blob/main/honeypot/tpot.conf)
+- **Configuration File**: https://github.com/jonathanholl/jonathanholl.github.io/blob/main/Tpot%20Configuration
 - **Log Sample**: [honeypot_logs.txt](https://github.com/yourusername/repository-name/blob/main/honeypot/honeypot_logs.txt)
 - **Screenshot**: [tpot_dashboard.png](https://github.com/yourusername/repository-name/blob/main/honeypot/tpot_dashboard.png)
 - **Report**: [Honeypot_Analysis.pdf](https://github.com/yourusername/repository-name/blob/main/honeypot/Honeypot_Analysis.pdf)
