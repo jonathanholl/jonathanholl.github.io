@@ -1,13 +1,10 @@
 # 🔒 Cybersecurity Portfolio & Labs
 
-Welcome to the **Cybersecurity Portfolio** page! This repository highlights my skills, projects, and resources in cybersecurity, showcasing hands-on experience and practical knowledge in the field.
+Welcome to the **Cybersecurity Portfolio** page! This repository highlights my skills, projects, and resources in cybersecurity, showcasing hands-on experience and practical knowledge in the field, along with my programming projects in Python.
 
 **JONATHAN HOLLAND**
 
-
-
 ![Profile](https://github.com/user-attachments/assets/de31887d-d6ca-4847-8bc5-52a42fc1d277)
-
 
 ---
 
@@ -18,28 +15,30 @@ Welcome to the **Cybersecurity Portfolio** page! This repository highlights my s
 3. [Certifications](#certifications)
 4. [Packet Tracer Project](#packet-tracer-project)
 5. [Request for Proposal (RFP)](#request-for-proposal-rfp)
-6. [Tools & Technologies](#tools--technologies)
-7. [Labs](#labs)
-8. [Resources](#resources)
-9. [Contact](#contact)
+6. [Python Game Projects](#python-game-projects)
+7. [Tools & Technologies](#tools--technologies)
+8. [Labs](#labs)
+9. [Resources](#resources)
+10. [Contact](#contact)
 
 ---
 
 ## 🌟 Introduction
 
-Cybersecurity is a critical field focused on protecting networks, systems, and data from cyber threats. This repository serves as a portfolio to demonstrate my expertise and dedication to the cybersecurity domain through projects, labs, and curated resources.
+Cybersecurity is a critical field focused on protecting networks, systems, and data from cyber threats. This repository serves as a portfolio to demonstrate my expertise and dedication to the cybersecurity domain through projects, labs, and curated resources. Additionally, I've included a section for Python game projects to showcase my programming skills, blending creativity with technical proficiency.
 
 ---
 
 ## 💼 Skills
 
-Here are some of the key skills I bring to the field of cybersecurity:
+Here are some of the key skills I bring to the field of cybersecurity and programming:
 
 - **Network Security**: Expertise in configuring firewalls, setting up VLANs, and subnetting for secure network environments.
 - **Vulnerability Analysis**: Proficient in scanning networks with tools like Nmap and Wireshark to identify vulnerabilities.
 - **Honeypot Deployment**: Skilled in setting up honeypots such as T-Pot, Dionaea, and Cowrie to analyze attacker behavior and collect threat intelligence.
 - **Incident Response**: Experience in responding to and mitigating security incidents through monitoring and analysis.
 - **Digital Forensics**: Knowledge of forensic techniques and tools to investigate cyber incidents.
+- **Python Programming**: Developed interactive games and utilities, demonstrating problem-solving and software development skills.
 - **Cybersecurity Certifications**: Holder of **Security+** and **Network+** certifications.
 
 ---
@@ -58,76 +57,70 @@ Here are my current certifications:
 This project demonstrates my ability to design, configure, and analyze network environments using Cisco Packet Tracer. Below is a breakdown of the steps involved:
 
 ### 1. **Project Objective**
-
 The goal was to create a secure and efficient network infrastructure for a hypothetical organization. This involved designing and simulating VLANs, routing, and security policies.
 
 ### 2. **Steps Taken**
-
-- **Network Design**:
-  - Created a logical topology incorporating routers, switches, and end devices.
-  - Configured VLANs to segment traffic for different departments.
-- **Configuration**:
-  - Assigned IP addresses and subnet masks.
-  - Set up static and dynamic routing protocols (e.g., OSPF).
-  - Configured ACLs to enforce security policies.
-  - Added a honeypot to distract potential hackers and prevent unauthorized access to the internal network.
-- **Testing**:
-  - Verified connectivity using `ping` and `traceroute` commands.
-  - Simulated traffic to test ACL rules and troubleshoot issues.
+- **Network Design**: Created a logical topology incorporating routers, switches, and end devices; configured VLANs to segment traffic.
+- **Configuration**: Assigned IP addresses, set up OSPF routing, configured ACLs, and added a honeypot for security.
+- **Testing**: Verified connectivity and simulated traffic to test security rules.
 
 ### 3. **Challenges and Solutions**
-
-- **Challenge**: Overlapping subnets.
-  - **Solution**: Adjusted subnet mask to avoid conflicts.
-- **Challenge**: Incorrect ACL rules.
-  - **Solution**: Debugged rules using simulation tools in Packet Tracer.
+- **Challenge**: Overlapping subnets. **Solution**: Adjusted subnet masks.
+- **Challenge**: Incorrect ACL rules. **Solution**: Debugged using simulation tools.
 
 ### 4. **Output**
-
-You can view the project file here: [Packet Tracer File](https://studentsecpi-my.sharepoint.com/:u:/r/personal/jonhol1944_students_ecpi_edu/Documents/Microsoft%20Teams%20Chat%20Files/CAPSTONE%20V1.24.pkt?csf=1&web=1&e=zHX8xi)
+[Packet Tracer File](https://studentsecpi-my.sharepoint.com/:u:/r/personal/jonhol1944_students_ecpi_edu/Documents/Microsoft%20Teams%20Chat%20Files/CAPSTONE%20V1.24.pkt?csf=1&web=1&e=zHX8xi)
 
 ---
 
 ## 📝 Request for Proposal (RFP)
 
-The RFP was crafted to outline the requirements for deploying a secure network infrastructure. Here’s a breakdown of the key components:
+The RFP outlines requirements for deploying a secure network infrastructure. Key components include:
 
 ### 1. **Project Scope**
-
-The RFP requested a design for a scalable and secure network solution for a medium-sized enterprise, focusing on:
-
-- High availability.
-- Secure communication.
-- Minimal downtime during deployment.
+Design a scalable, secure network for a medium-sized enterprise with high availability and minimal downtime.
 
 ### 2. **Requirements**
+- **Hardware**: Routers, switches, firewalls.
+- **Software**: Cisco IOS, monitoring tools.
+- **Security**: VLANs, ACLs, encryption.
 
-- **Hardware**: Specify routers, switches, and firewalls.
-- **Software**: Recommended use of Cisco IOS and monitoring tools.
-- **Security**:
-  - Implement VLANs.
-  - Use ACLs for segmentation and access control.
-  - Enable encryption for sensitive data.
+### 3. **Outcome**
+Demonstrated aligning technical solutions with organizational needs. [RFP.docx](https://github.com/user-attachments/files/18577875/RFP.docx)
 
-### 3. **Proposal Submission**
+---
 
-- Submission included a detailed network design with diagrams.
-- A timeline and cost estimate for implementation.
+## 🎮 Python Game Projects
 
-### 4. **Outcome**
+To showcase my programming skills, I've developed several Python games using Pygame. These projects highlight my ability to write structured, interactive code and apply problem-solving skills in a fun context. Below are some examples:
 
-The RFP successfully demonstrated my ability to align technical solutions with organizational needs and budget constraints.
+### 1. **Multi-Ball Pong**
+- **Description**: A twist on the classic Pong game with multiple balls in play simultaneously. Players control a paddle with W/S keys to deflect balls against an AI opponent.
+- **Features**:
+  - Multiple balls with independent movement.
+  - Score tracking for both player and AI.
+  - Simple AI that tracks the first ball.
+- **Code**: [multi_ball_pong.py](https://github.com/yourusername/repository/blob/main/multi_ball_pong.py)
+- **Skills Demonstrated**: Object-oriented programming, collision detection, game loop management.
 
-### 5. **Additional Details**
+### 2. **Space Invaders**
+- **Description**: A shooter inspired by the classic Space Invaders. Players control a ship with arrow keys, shooting aliens with the spacebar.
+- **Features**:
+  - Waves of aliens moving side-to-side and dropping down.
+  - Bullet mechanics with cooldown.
+  - Score system and game over on collision.
+- **Code**: [space_invaders.py](https://github.com/yourusername/repository/blob/main/space_invaders.py)
+- **Skills Demonstrated**: Sprite handling, event-driven programming, basic AI movement.
 
-You can view the complete RFP document here: [RFP.docx](https://github.com/user-attachments/files/18577875/RFP.docx)
-
+### Future Plans
+- Add more games like Snake, Blackjack, or Pac-Man.
+- Enhance existing games with sound effects, improved graphics, or multiplayer features.
 
 ---
 
 ## 🛠 Tools & Technologies
 
-Here are some essential tools and technologies I use in my cybersecurity work:
+Essential tools and technologies I use:
 
 | Tool            | Purpose                  | Documentation Link                                         |
 | --------------- | ------------------------ | ---------------------------------------------------------- |
@@ -136,59 +129,36 @@ Here are some essential tools and technologies I use in my cybersecurity work:
 | Metasploit      | Exploitation framework   | [Metasploit Docs](https://www.metasploit.com/)             |
 | Burp Suite      | Web app security testing | [Burp Suite Docs](https://portswigger.net/burp)            |
 | T-Pot           | Honeypots for analysis   | [T-Pot GitHub](https://github.com/telekom-security/tpotce) |
-| John the Ripper | Password cracking        | [John the Ripper](https://www.openwall.com/john/)          |
+| Pygame          | Game development         | [Pygame Docs](https://www.pygame.org/docs/)                |
 
 ---
 
 ## 🔬 Labs
 
-Hands-on labs are crucial for understanding cybersecurity. Here are some labs I’ve completed:
+Hands-on labs completed:
 
-1. **Malware Analysis Lab**
-
-   - Used T-Pot to capture malware samples.
-   - Analyzed malicious behavior in a sandboxed environment.
-
-2. **Honeypot Lab**
-
-   - Set up a virtual honeypot to study attacker behavior.
-   - Tools: [Dionaea](https://github.com/DinoTools/dionaea) or [Cowrie](https://github.com/cowrie/cowrie).
-
-3. **Network Scanning Lab**
-
-   - Explored networks with **Nmap** and analyzed traffic using **Wireshark**.
-
-4. **Web Application Security Lab**
-
-   - Tested vulnerabilities using **OWASP Juice Shop**.
-   - Learned about common attacks like SQL injection and XSS.
+1. **Malware Analysis Lab**: Captured malware with T-Pot, analyzed in a sandbox.
+2. **Honeypot Lab**: Deployed Dionaea and Cowrie to study attackers.
+3. **Network Scanning Lab**: Used Nmap and Wireshark for network exploration.
+4. **Web Application Security Lab**: Tested vulnerabilities with OWASP Juice Shop.
 
 ---
 
 ## 📚 Resources
 
-Curated resources to deepen your knowledge:
+Curated resources:
 
-- **Books**:
-  - [The Web Application Hacker's Handbook](https://www.amazon.com/)
-  - [Practical Malware Analysis](https://www.amazon.com/)
-- **Courses**:
-  - [Certified Ethical Hacker (CEH) - Udemy](https://www.udemy.com/)
-  - [TryHackMe](https://tryhackme.com/)
-  - [Hack The Box](https://www.hackthebox.com/)
-- **Communities**:
-  - [r/cybersecurity](https://www.reddit.com/r/cybersecurity/)
-  - [OWASP Foundation](https://owasp.org/)
+- **Books**: [The Web Application Hacker's Handbook](https://www.amazon.com/), [Practical Malware Analysis](https://www.amazon.com/)
+- **Courses**: [CEH - Udemy](https://www.udemy.com/), [TryHackMe](https://tryhackme.com/), [Hack The Box](https://www.hackthebox.com/)
+- **Communities**: [r/cybersecurity](https://www.reddit.com/r/cybersecurity/), [OWASP](https://owasp.org/)
 
 ---
 
 ## 📝 Contact
 
-Feel free to reach out if you have any questions or would like to collaborate:
-
-- **Email**: [johnholland1987@gmail.com](mailto\:johnholland1987@gmail.com)
+- **Email**: [johnholland1987@gmail.com](mailto:johnholland1987@gmail.com)
 - **LinkedIn**: [Jonathan Holland](https://www.linkedin.com/in/jonathan-holland-71b155270/)
-- **Packet Tracer File**: [Download Here](https://studentsecpi-my.sharepoint.com/\:u:/g/personal/danlej1337_students_ecpi_edu/EZDgFzeJ7fVMqzjGNfPWFq4BD1_coPyJPrh7OEXkKxNsbA?e=xZng5U)
+- **Packet Tracer File**: [Download Here](https://studentsecpi-my.sharepoint.com/:u:/g/personal/danlej1337_students_ecpi_edu/EZDgFzeJ7fVMqzjGNfPWFq4BD1_coPyJPrh7OEXkKxNsbA?e=xZng5U)
 - **GitHub**: [Your GitHub](https://github.com/yourusername)
 
 ---
@@ -202,4 +172,3 @@ This repository is licensed under the [MIT License](LICENSE).
 ### 🌐 Contribute
 
 Have ideas to improve this repository? [Open an issue](https://github.com/yourusername/repository/issues) or submit a pull request!
-
