@@ -1,0 +1,10 @@
+[2025-02-22 12:15:34] Cowrie: SSH Login attempt - IP: 192.168.1.100, Username: root, Password: admin123, Status: Failed
+[2025-02-22 12:17:50] Cowrie: SSH Login attempt - IP: 45.67.89.10, Username: admin, Password: password, Status: Failed
+[2025-02-22 12:20:15] Dionaea: Malware sample detected - IP: 203.0.113.45, File: trojan.exe, MD5: a6b7c8d9e0f123456789abcd
+[2025-02-22 12:25:10] Dionaea: SMB Exploit attempt - IP: 156.54.32.11, Exploit: EternalBlue, Status: Blocked
+[2025-02-22 12:30:22] T-Pot: High traffic detected - Source IP: 101.202.33.44, Protocol: HTTP, Requests: 500+ in 10 minutes
+[2025-02-22 12:35:48] Cowrie: SSH Login attempt - IP: 198.51.100.23, Username: guest, Password: guest, Status: Success
+[2025-02-22 12:40:55] Dionaea: FTP brute force attempt - IP: 182.76.90.4, Attempts: 50+, Status: Blocked
+[2025-02-22 12:50:05] Kibana: Log analysis - Unusual login success rate detected from IP: 198.51.100.23
+[2025-02-22 13:00:45] T-Pot: Multiple honeypots triggered - Source IP: 67.89.101.23, Attacks: SSH, SMB, HTTP
+[2025-02-22 13:05:30] Logstash: Alert - Possible coordinated attack from multiple IPs, Severity: High
