@@ -1,0 +1,79 @@
+version: '3'
+
+services:
+  # Cowrie (SSH honeypot)
+  cowrie:
+    image: dtagdevsec/cowrie
+    restart: always
+    ports:
+      - "2222:2222"
+    environment:
+      - HPFEEDS_ENABLED=true
+      - HPFEEDS_HOST=hpfeeds
+      - HPFEEDS_PORT=10000
+      - HPFEEDS_IDENT=cowrie
+      - HPFEEDS_SECRET=cowrie_secret
+
+  # Dionaea (Malware Honeypot)
+  dionaea:
+    image: dtagdevsec/dionaea
+    restart: always
+    ports:
+      - "21:21"     # FTP
+      - "42:42"     # Nameserver
+      - "135:135"   # RPC
+      - "443:443"   # HTTPS
+      - "445:445"   # SMB
+      - "1433:1433" # MS-SQL
+    environment:
+      - HPFEEDS_ENABLED=true
+      - HPFEEDS_HOST=hpfeeds
+      - HPFEEDS_PORT=10000
+      - HPFEEDS_IDENT=dionaea
+      - HPFEEDS_SECRET=dionaea_secret
+
+  # Elastic Stack for Logging
+  elasticsearch:
+    image: elasticsearch:7.9.3
+    restart: always
+    environment:
+      - discovery.type=single-node
+      - bootstrap.memory_lock=true
+    ulimits:
+      memlock:
+        soft: -1
+        hard: -1
+    ports:
+      - "9200:9200"
+
+  kibana:
+    image: kibana:7.9.3
+    restart: always
+    depends_on:
+      - elasticsearch
+    ports:
+      - "5601:5601"
+
+  logstash:
+    image: logstash:7.9.3
+    restart: always
+    depends_on:
+      - elasticsearch
+    volumes:
+      - ./logstash.conf:/usr/share/logstash/pipeline/logstash.conf
+
+  hpfeeds:
+    image: dtagdevsec/hpfeeds
+    restart: always
+    ports:
+      - "10000:10000"
+
+  tpot:
+    image: dtagdevsec/tpotce
+    restart: always
+    network_mode: host
+    privileged: true
+    environment:
+      - TPOT_IFACE=eth0
+      - TPOT_WEB_USER=admin
+      - TPOT_WEB_PASS=changeme
