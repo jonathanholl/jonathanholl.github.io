@@ -102,6 +102,8 @@ To showcase my programming skills, I've developed several Python games using Pyg
   - Simple AI that tracks the first ball.
 - **Code**: [multi_ball_pong.py](https://github.com/yourusername/repository/blob/main/multi_ball_pong.py)
 - **Skills Demonstrated**: Object-oriented programming, collision detection, game loop management.
+- ![image](https://github.com/user-attachments/assets/4315db6a-41ae-4b13-a286-389f4279c209)
+
 
 ### 2. **Space Invaders**
 - **Description**: A shooter inspired by the classic Space Invaders. Players control a ship with arrow keys, shooting aliens with the spacebar.
@@ -111,6 +113,8 @@ To showcase my programming skills, I've developed several Python games using Pyg
   - Score system and game over on collision.
 - **Code**: [space_invaders.py](https://github.com/yourusername/repository/blob/main/space_invaders.py)
 - **Skills Demonstrated**: Sprite handling, event-driven programming, basic AI movement.
+- ![image](https://github.com/user-attachments/assets/add4cc65-49c0-4f10-83b5-761788899607)
+
 
 ### Future Plans
 - Add more games like Snake, Blackjack, or Pac-Man.
