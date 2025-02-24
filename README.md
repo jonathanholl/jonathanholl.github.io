@@ -3,6 +3,7 @@
 Welcome to the **Cybersecurity Portfolio** page! This repository highlights my skills, projects, and resources in cybersecurity, showcasing hands-on experience and practical knowledge in the field, along with my programming projects in Python.
 
 **JONATHAN HOLLAND**
+ **LinkedIn**: [Jonathan Holland](https://www.linkedin.com/in/jonathan-holland-71b155270/)
 
 ![Profile](https://github.com/user-attachments/assets/de31887d-d6ca-4847-8bc5-52a42fc1d277)
 
